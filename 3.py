@@ -1,3 +1,4 @@
+## Questão 3
 dicio = {
   input("Nome do aluno 1: "): float(input("Nota do aluno 1: ")),
   input("\nNome do aluno 2: "): float(input("Nota do aluno 2: ")),
